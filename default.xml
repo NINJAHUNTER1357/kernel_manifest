@@ -21,6 +21,6 @@
     <linkfile dest="build.config" src="build.config.oplus6895" />
   </project>
 
-  <project path="vendor" name="android_kernel_modules_mt6895_realme" remote="github" revision="bka" />
+  <project path="vendor" name="android_kernel_modules_mt6895_realme" remote="github" revision="test" />
 
 </manifest>
